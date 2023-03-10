@@ -7,7 +7,7 @@
                                 \____/                    
 
 # CLI Git Workshop Spring 2023
-Actually By Ronald
+Actually By Ronald BUT I WAS WRONGGGGGGG
 By Raphaela Mettig
 
 ## Attendees
